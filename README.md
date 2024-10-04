@@ -7,5 +7,3 @@ For simplicity, I have chosen not to add much interaction on other pages like "H
 There's no problem using the code, because its more visual than anything.
 
 In a future, im looking foward to add some database and more interactions, with more cars etc
-
-Thanks for checking out the project!
